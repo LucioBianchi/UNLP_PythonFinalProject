@@ -1,0 +1,136 @@
+{
+    "datos" : [
+        {
+            "image": "divisor_horizontal.png",
+            "image_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 0,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 188
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 188,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 376
+                }
+            ]
+        },
+        {
+            "image": "divisor_vertical.png",
+            "image_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 0,
+                    "bottom_right_x": 158,
+                    "bottom_right_y": 376
+                },
+                {
+                    "top_left_x": 158,
+                    "top_left_y": 0,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 376
+                }
+            ]
+        },
+        {
+            "image": "doble_divisor.png",
+            "image_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 0,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 125
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 125,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 260
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 260,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 376
+                }
+            ]
+        },
+        {
+            "image": "ventana.png",
+            "image_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 0,
+                    "bottom_right_x": 157,
+                    "bottom_right_y": 188
+                },
+                {
+                    "top_left_x": 157,
+                    "top_left_y": 0,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 188
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 189,
+                    "bottom_right_x": 157,
+                    "bottom_right_y": 376
+                },
+                {
+                    "top_left_x": 157,
+                    "top_left_y": 189,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 376
+                }
+            ]
+        },
+        {
+            "image": "vinieta_arriba.png",
+            "image_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 0,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 187
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 188,
+                    "bottom_right_x": 157,
+                    "bottom_right_y": 376
+                },
+                {
+                    "top_left_x": 157,
+                    "top_left_y": 188,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 376
+                }
+            ]
+        },
+        {
+            "image": "vinieta_abajo.png",
+            "image_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 0,
+                    "bottom_right_x": 157,
+                    "bottom_right_y": 187
+                },
+                {
+                    "top_left_x": 157,
+                    "top_left_y": 0,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 187
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 188,
+                    "bottom_right_x": 315,
+                    "bottom_right_y": 376
+                }
+            ]
+        }
+    ]
+}

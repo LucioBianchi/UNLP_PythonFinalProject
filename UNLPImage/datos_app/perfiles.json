@@ -1,0 +1,81 @@
+{
+    "datos": [
+        {
+            "Nick": "asaa",
+            "Nombre": "dsads",
+            "Edad": "1",
+            "Genero": "Masculino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\3da161fc3347741e55cdf0a47b230229db15b5a9_full.jpg"
+        },
+        {
+            "Nick": "astro",
+            "Nombre": "xd",
+            "Edad": "31",
+            "Genero": "Femenino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\64b735fe92c580cad36351a26d4b13c9.jpg"
+        },
+        {
+            "Nick": "ola",
+            "Nombre": "Gato",
+            "Edad": "99",
+            "Genero": "Otro",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\gatito.jpg"
+        },
+        {
+            "Nick": "hola",
+            "Nombre": "ashe",
+            "Edad": "15",
+            "Genero": "Masculino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\rogue-one-death-star.jpg"
+        },
+        {
+            "Nick": "perro",
+            "Nombre": "Perrito",
+            "Edad": "21",
+            "Genero": "Otro",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\perro.jpg"
+        },
+        {
+            "Nick": "Placeholder",
+            "Nombre": "alo",
+            "Edad": "23",
+            "Genero": "Femenino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\orig_236710.jpg"
+        },
+        {
+            "Nick": "Placeholder123214",
+            "Nombre": "xdxdxd",
+            "Edad": "123213",
+            "Genero": "Masculino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\rogue-one-death-star.jpg"
+        },
+        {
+            "Nick": "prue",
+            "Nombre": "dsa",
+            "Edad": "123",
+            "Genero": "Masculino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\3da161fc3347741e55cdf0a47b230229db15b5a9_full.jpg"
+        },
+        {
+            "Nick": "Holasoynuebo",
+            "Nombre": "nodenaser",
+            "Edad": "123",
+            "Genero": "Femenino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\orig_236710.jpg"
+        },
+        {
+            "Nick": "jeje",
+            "Nombre": "Jajaja",
+            "Edad": "1",
+            "Genero": "Masculino",
+            "Avatar": "UNLPImage\\datos_app\\avatares\\meme.png"
+        },
+        {
+            "Nick": "Jjijiji",
+            "Nombre": "pepepepe",
+            "Edad": "99",
+            "Genero": "Femenino",
+            "Avatar": "UNLPImage\\assets\\profile_placeholder.png"
+        }
+    ]
+}

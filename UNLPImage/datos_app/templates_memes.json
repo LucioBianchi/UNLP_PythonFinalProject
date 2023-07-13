@@ -1,0 +1,94 @@
+{
+    "datos": [
+        {
+            "image": "drake.jpg",
+            "nombre": "Drake (2 boxes)",
+            "text_boxes": [
+                {
+                    "top_left_x": 125,
+                    "top_left_y": 0,
+                    "bottom_right_x": 249,
+                    "bottom_right_y": 122
+                },
+                {
+                    "top_left_x": 125,
+                    "top_left_y": 126,
+                    "bottom_right_x": 249,
+                    "bottom_right_y": 246
+                }
+            ]
+        },
+        {
+            "image": "sponge_bob.jpg",
+            "nombre": "Bob Esponja (2 boxes)",
+            "text_boxes": [
+                {
+                    "top_left_x": 159,
+                    "top_left_y": 0,
+                    "bottom_right_x": 282,
+                    "bottom_right_y": 124
+                },
+                {
+                    "top_left_x": 159,
+                    "top_left_y": 126,
+                    "bottom_right_x": 282,
+                    "bottom_right_y": 248
+                }
+            ]
+        },
+        {
+            "image": "heart_meme.jpg",
+            "nombre": "Corazon acelerado (3 boxes)",
+            "text_boxes": [
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 2,
+                    "bottom_right_x": 117,
+                    "bottom_right_y": 74
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 75,
+                    "bottom_right_x": 117,
+                    "bottom_right_y": 120
+                },
+                {
+                    "top_left_x": 0,
+                    "top_left_y": 124,
+                    "bottom_right_x": 116,
+                    "bottom_right_y": 184
+                }
+            ]
+        },
+        {
+            "image": "winnie pooh.png",
+            "nombre": "Winnie elegante (4 boxes)",
+            "text_boxes": [
+                {
+                    "top_left_x": 170,
+                    "top_left_y": 3,
+                    "bottom_right_x": 492,
+                    "bottom_right_y": 143
+                },
+                {
+                    "top_left_x": 168,
+                    "top_left_y": 151,
+                    "bottom_right_x": 492,
+                    "bottom_right_y": 291
+                },
+                {
+                    "top_left_x": 168,
+                    "top_left_y": 300,
+                    "bottom_right_x": 493,
+                    "bottom_right_y": 441
+                },
+                {
+                    "top_left_x": 171,
+                    "top_left_y": 450,
+                    "bottom_right_x": 494,
+                    "bottom_right_y": 582
+                }
+            ]
+        }
+    ]
+}
